@@ -1,4 +1,4 @@
-# 🇳🇴 Agente de Viagens – Noruega (NotebookLM)
+# Agente de Viagens – Noruega (NotebookLM)
 
 ## Visão Geral
 
